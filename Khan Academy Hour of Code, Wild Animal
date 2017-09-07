@@ -1,0 +1,35 @@
+//Lamb Code
+
+//background
+background(75, 156, 219);
+
+//Body and Head
+fill(207, 197, 166);
+ellipse(200, 180, 100, 108);
+fill(199, 169, 169);
+ellipse(200, 116, 64, 55);
+
+//Ears
+triangle(217, 102, 227, 81, 260, 111);
+triangle(183, 105, 169, 81, 130, 111);
+
+//eyes
+fill(0, 0, 0);
+ellipse(190, 122, 13, 13);
+ellipse(214, 122, 13, 13);
+
+
+//ground
+fill(84, 143, 90);
+rect(-10, 233, 415, 168);
+
+//Feet
+fill(199, 169, 169);
+rotate(-20);
+rect(49, 264, 50, 18);
+rotate(25);
+rect(235, 197, 50, 18);
+
+//arms
+line(186, 141, 204, 168);
+line(239, 141, 234, 168);
