@@ -1,0 +1,107 @@
+//background
+background(17, 6, 89);
+
+// simple snowman
+fill(237, 228, 220);
+ellipse(200, 300, 150, 150);
+ellipse(200, 200, 100, 100);
+ellipse(200, 120, 75, 75);
+
+//mouth
+fill(56, 42, 42);
+ellipse(194, 146, 9, 8);
+ellipse(181, 140, 7, 7);
+ellipse(206, 146, 7, 7);
+ellipse(218, 140, 8, 8);
+
+//buttons
+ellipse(202, 173, 11, 11);
+ellipse(202, 197, 10, 10);
+ellipse(202, 223, 11, 11);
+
+//eyes
+fill(105, 90, 90);
+ellipse(183, 114, 13, 21);
+ellipse(217, 114, 13, 21);
+
+//nose
+fill(255, 136, 0);
+arc(214, 114, 36, 60, 143, 164);
+
+fill(255, 255, 255);
+ellipse(182, 111, 5, 7);
+ellipse(216, 111, 5, 7);
+
+//ground
+fill(255, 255, 255);
+rect(-2, 341, 402, 150);
+
+//moon
+fill(250, 248, 247);
+ellipse(100, 100, 75, 75);
+
+//shadow
+fill(79, 70, 70);
+quad(550, 400, 200, 400, 138, 342, 262, 342);
+
+// hat
+fill(33, 27, 27);
+rect(153, 80, 90, 9);
+rect(168, 79, 61, -60);
+fill(255, 23, 77);
+rect(168, 79, 61, -13);
+fill(222, 212, 73);
+rect(193, 67, 15, 12);
+fill(255, 23, 77);
+rect(195, 69, 11, 8);
+
+//Left Arm
+stroke(161, 81, 37);
+strokeWeight(4);
+line(77, 175, 152, 214);
+line(100, 174, 121, 197);
+line(75, 164, 103, 189);
+
+//Right Arm
+line(357, 145, 248, 214);
+line(333, 160, 362, 155);
+line(352, 140, 347, 151);
+
+//snow
+stroke(242, 234, 234);
+strokeWeight(3);
+line(227, 17, 170, 17);
+line(242, 78, 155, 78);
+
+//falling snow
+strokeWeight(1);
+stroke(0, 0, 0);
+fill(242, 242, 242);
+ellipse(81, 97, 8, 8);
+ellipse(100, 138, 6, 6);
+ellipse(44, 182, 7, 7);
+ellipse(23, 251, 9, 9);
+ellipse(87, 288, 5, 5);
+ellipse(23, 67, 8, 8);
+ellipse(140, 48, 7, 7);
+ellipse(86, 205, 6, 6);
+ellipse(51, 328, 9, 9);
+ellipse(60, 16, 7, 7);
+ellipse(315, 15, 5, 5);
+ellipse(156, 152, 8, 8);
+ellipse(25, 138, 6, 6);
+ellipse(128, 228, 7, 7);
+ellipse(124, 15, 9, 9);
+ellipse(369, 116, 5, 5);
+ellipse(264, 67, 8, 8);
+ellipse(348, 48, 7, 7);
+ellipse(306, 205, 6, 6);
+ellipse(373, 328, 9, 9);
+ellipse(307, 97, 7, 7);
+ellipse(281, 164, 5, 5);
+ellipse(356, 182, 8, 8);
+ellipse(250, 237, 6, 6);
+ellipse(336, 263, 7, 7);
+ellipse(390, 229, 9, 9);
+ellipse(288, 288, 5, 5);
+ellipse(322, 317, 8, 8);
