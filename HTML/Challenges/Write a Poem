@@ -1,0 +1,24 @@
+<!DOCTYPE HTML>
+
+<html>
+
+    <head>
+
+        <title>Challenge: Write a Poem</title>
+
+        <meta charset="utf-8">
+
+    </head>
+
+    <body>
+        
+        <h1>My Haiku</h1>
+        
+        <p>This is a haiku<br>
+        This is really a haiku<br>
+        You should haiku too
+        </p>
+        
+    </body>
+
+</html>
