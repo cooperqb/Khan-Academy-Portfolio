@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Project: Recipe book</title>
+        <meta charset="utf-8">
+        <style>
+        body{
+            background-color:rgb(186, 137, 15);
+        }
+        
+        #coopers-recipe-book{
+            color:rgb(255, 255, 255);
+        }
+        
+        
+        </style>
+    </head>
+    <body>
+       
+        <h1 id = "coopers-recipe-book"><em>Cooper's Recipe Book</em></h1>
+        
+        <h2>Contents:</h2>
+        
+        <ol>
+            <li><a href="#mama-mia">Mama Mia</a></li>
+            <li><a href="#mccheezy-boi">McCheezy Boi</a></li>
+            <li><a href="#raspberry-smoothie">Raspberry Smoothie</a></li>
+        </ol>
+        
+        <h2 id="mama-mia">Mama Mia</h2>
+        
+        <ul>
+            <li>Time: 25 min </li>
+            <li>Servings: ?</li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Money</td>
+                    <td>$5</td>
+                </tr>
+                <tr>
+                    <td>Appetite</td>
+                    <td>$5</td>
+                </tr>
+            </tbody>
+        </table>
+        
+        <p><strong>Step 1:</strong> Go to a Subway near you.<br>
+        <strong>Step 2:</strong> Ask for a spicy meatball sub.<br>
+        <strong>Step 3:</strong> Surf's up dude!<br>
+</p>
+        <h2 id = "mccheezy-boi">McCheezy Boi</h2>
+        
+         <ul>
+            <li>Time: 15 min </li>
+            <li>Servings: Dine till you die</li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Money</td>
+                    <td>$10</td>
+                </tr>
+                                <tr>
+                    <td>Digestive System</td>
+                    <td>1</td>
+                </tr>
+                                <tr>
+                    <td>Will to Live</td>
+                    <td>2</td>
+                </tr>
+            </tbody>
+        </table>
+        
+        <p><strong>Step 1:</strong> Go to a MACDONALDS near you.<br>
+        <strong>Step 2:</strong> Ask for double McCheezy Boi.<br>
+        <strong>Step 3:</strong> Surf's up dude!<br>
+</p>
+
+        <h2 id = "raspberry-smoothie">Raspberry Smoothie</h2>
+        
+         <ul>
+            <li>Time: 10 min </li>
+            <li>Servings: 2</li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Raspberries</td>
+                    <td>2.5 cups</td>
+                </tr>
+                                <tr>
+                    <td>Yogurt</td>
+                    <td>1 small container</td>
+                </tr>
+                                <tr>
+                    <td>Milk</td>
+                    <td>2.5 cups</td>
+                </tr>
+            </tbody>
+        </table>
+        
+        <p><strong>Step 1:</strong> Put the ingredients in a blender.<br>
+        <strong>Step 2:</strong> Blend fo 60 seconds.<br>
+        <strong>Step 3:</strong> Surf's up dude!<br>
+</p>
+
+    <p><em>Source: <a href="https://en.wikipedia.org/wiki/Recipe">Some recipes websites</a></em></p>
+    
+    </body>
+</html>
