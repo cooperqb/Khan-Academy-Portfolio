@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Challenge: The dinner table</title>
+    </head>
+    <body>
+    
+        <h1>Our Dinner Menu</h1>
+
+        <table>
+            <thead>
+                <tr>
+                    <th>Meal</th>
+                    <th>Ingredients</th>
+                    <th>Price</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Onigiri</td>
+                    <td>Rice, Seaweed, Filler</td>
+                    <td>Something</td>
+                </tr>
+                <tr>
+                    <td>Snack</td>
+                    <td>Cheese, Crackers</td>
+                    <td>Cheap</td>
+                </tr>
+                <tr>
+                    <td>Red Boiz</td>
+                    <td>Raspberries, Microwave</td>
+                    <td>Doesn't Matter</td>
+                </tr>
+            </tbody>
+        </table>
+
+    </body>
+</html>
