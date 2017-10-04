@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Challenge: Colorful creature</title>
+        <style> 
+            body{
+                background : rgb(217, 205, 115);
+            }
+            
+            p{
+                color: green;
+            }
+            
+            h1{
+                color: rgb(217, 11, 90);
+            }
+        </style>
+        
+        
+    </head>
+    <body>
+        
+        <h1>The <em>Coolest</em> Creature</h1>
+        
+        <p>The <em>objectively better one</em> is awesome because <strong>IT IS TIMOTHY</strong>.</p>
+        <img src = "https://www.kasandbox.org/programming-images/avatars/leafers-ultimate.png">
+        
+    </body>
+</html>
