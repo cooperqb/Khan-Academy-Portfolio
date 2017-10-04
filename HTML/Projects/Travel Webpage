@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Travel webpage</title>
+        <style>
+            .japan{
+                color:white;
+            }
+            
+            body{
+               background-color:red; 
+            }
+            
+            
+        </style>
+    </head>
+    <body>
+    
+        <h1>Travel to <em class = "japan">Japan</em>!!</h1>
+        
+        <img src ="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/1200px-Flag_of_Japan.svg.png" height = "100">
+        <h2>It's <strong class = "japan">Japan!</strong></h2>
+        <p>Japan is pretty cool.</p>
+        <ol>
+            <li>Tokyo</li>
+            <li>Tokyo</li>
+            <li>Tokyo</li>
+            <li>Tokyo</li>
+        </ol>
+        
+        <h2>What about <strong class = "japan">Japan?</strong> </h2>
+        <p>There's stuff there.</p>
+        <ul>
+            <li>World</li>
+            <li>of</li>
+            <li>Pokemon</li>
+        </ul>
+        
+        <h3>Top 3 Pokemon:</h3>
+        <img src = "https://www.kasandbox.org/programming-images/avatars/leafers-ultimate.png">
+        <img src = "https://www.kasandbox.org/programming-images/avatars/leafers-ultimate.png"><br>
+        <img src = "https://www.kasandbox.org/programming-images/avatars/leafers-ultimate.png">
+    </body>
+</html>
